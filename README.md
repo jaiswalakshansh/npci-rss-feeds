@@ -1,6 +1,6 @@
 # NPCI RSS Feeds
 
-RSS Feeds for various NPCI Circulars and Notifications.
+RSS Feeds for various NPCI Circulars and Notifications..
 
 Automatically updated twice a day using GitHub Actions and [weneedfeed](https://github.com/r7kamura/weneedfeed).
 
